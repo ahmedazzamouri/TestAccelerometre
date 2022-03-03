@@ -6,63 +6,63 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml
+8-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml
+9-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:8:5-22:19
+11-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:7:5-22:19
 12        android:allowBackup="true"
-12-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:9:9-35
+12-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:8:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] C:\Users\Montse\.gradle\caches\transforms-3\d79cd730aff89e16bbe6bbee05f6ceb1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.7.0] C:\Users\ahmed\.gradle\caches\transforms-3\d79cd730aff89e16bbe6bbee05f6ceb1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@drawable/ic_launcher"
-16-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:10:9-45
+16-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:9:9-45
 17        android:label="@string/app_name"
-17-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:11:9-41
+17-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:10:9-41
 18        android:testOnly="true"
 19        android:theme="@style/AppTheme" >
-19-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:12:9-40
+19-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:11:9-40
 20        <activity
-20-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:13:9-21:20
+20-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:13:9-21:20
 21            android:name="udl.eps.testaccelerometre.TestAccelerometreActivity"
-21-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:14:13-79
+21-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:14:13-79
 22            android:label="@string/app_name" >
-22-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:15:13-45
+22-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:15:13-45
 23            <intent-filter>
-23-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:16:13-20:29
+23-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:16:13-20:29
 24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:17:17-69
-24-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:17:25-66
+24-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:17:17-69
+24-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:17:25-66
 25
 26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:19:17-77
-26-->C:\Users\Montse\Desktop\MaterialClasses\PlXxa\ProjectesAndroidAnteriors\TestAccelerometre\app\src\main\AndroidManifest.xml:19:27-74
+26-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:19:17-77
+26-->C:\Users\ahmed\Desktop\GEI\TestAccelerometre\app\src\main\AndroidManifest.xml:19:27-74
 27            </intent-filter>
 28        </activity>
 29
 30        <provider
-30-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Montse\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+30-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 31            android:name="androidx.startup.InitializationProvider"
-31-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Montse\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+31-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
 32            android:authorities="udl.eps.testaccelerometre.androidx-startup"
-32-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Montse\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+32-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 33            android:exported="false" >
-33-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Montse\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+33-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 34            <meta-data
-34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Montse\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 35                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Montse\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 36                android:value="androidx.startup" />
-36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Montse\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ahmed\.gradle\caches\transforms-3\a041a9a952b29f6964d85f5771c8e429\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 37            <meta-data
-37-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Montse\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+37-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ahmed\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 38                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-38-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Montse\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+38-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ahmed\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
 39                android:value="androidx.startup" />
-39-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Montse\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+39-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\ahmed\.gradle\caches\transforms-3\2d2b81fd1f5d13f7e9fe71a47a19c028\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 40        </provider>
 41    </application>
 42

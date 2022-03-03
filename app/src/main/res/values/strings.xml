@@ -4,8 +4,13 @@
     <string name="app_name">TestAccel</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="shake">Shake to get a toast and to switch color</string>
     <string name="shuffed">Device was shuffed</string>
-    ""
+    <string name="loading">Loading sensor data</string>
+    <string name="accelerometer_sensor_good">Shake to get a toast and to switch color </string>
+    <string name="accelerometer_sensor_bad">Sorry, there is no accelerometer</string>
+    <string name="accelerometer_sensor_data">Resolució: %f\nRang mesura: %f\nConsum: %f</string>
+    <string name="light_sensor_good">Light sensor available. Rang max measure = %f</string>
+    <string name="light_sensor_bad">Sorry, there is no light sensor</string>
+    <string name="light_sensor_data">New value light sensor = %f\n%s Intensity</string>
 
 </resources>

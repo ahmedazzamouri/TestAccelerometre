@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestAccelerometre.iml" filepath="$PROJECT_DIR$/TestAccelerometre.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestAccelerometre.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestAccelerometre.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestAccelerometre_PlataformesEnXarxa.iml" filepath="$PROJECT_DIR$/.idea/modules/TestAccelerometre_PlataformesEnXarxa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TestAccelerometre_PlataformesEnXarxa.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TestAccelerometre_PlataformesEnXarxa.app.iml" />
     </modules>
   </component>
 </project>
